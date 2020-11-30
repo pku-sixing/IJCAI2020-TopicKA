@@ -25,7 +25,7 @@ We reuse some codes/scripts from [Tensorflow-NMT](https://github.com/tensorflow/
 
 Here we provide the processed datasets. If you need the original datasets, please check the cited papers:
 
-- Chinese Weibo ([Baidu Disk](https://pan.baidu.com/s/1xudsxGRt8XauJfKBXO62LA) code: dgm3 / [Google Drive](https://drive.google.com/file/d/10Rzs0afMuP7TQV18EIBp4oXCGV1fGU0i/view?usp=sharing)): It is built upon three previous open Chinese Weibo datasets (please see our paper for detail), and we collected commonsense knowledge facts from [ConceptIO](http://www.conceptnet.io/).
+- Chinese Weibo ([Baidu Disk](https://pan.baidu.com/s/1xudsxGRt8XauJfKBXO62LA) code: dgm3 / [Google Drive](https://drive.google.com/file/d/186QwI6EEkFY1yZzYmcm4NLVuY0bQBHse/view?usp=sharing)): It is built upon three previous open Chinese Weibo datasets (please see our paper for detail), and we collected commonsense knowledge facts from [ConceptIO](http://www.conceptnet.io/).
 
 It is worth noting that this "Chinese Weibo" is different from the "Chinese Weibo" of our [ACL2020-ConKADI](https://github.com/pku-orangecat/ACL2020-ConKADI).
 
