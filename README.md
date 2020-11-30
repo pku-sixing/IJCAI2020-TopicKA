@@ -42,7 +42,7 @@ Please see [ACL2020-ConKADI](https://github.com/pku-orangecat/ACL2020-ConKADI)  
 
 - TwoStage:  train_classifier.sh, train_twostage.sh
 
-- MultiTask: train_joint.sh
+- MultiTask: train_joint.sh or train_round.sh
 
 - Latent Variable: train_joint.sh > train_joint_sample.sh , or train_round.sh > train_round_sample.sh 
 
